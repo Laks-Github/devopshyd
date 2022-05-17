@@ -3,4 +3,6 @@
 *.net
 
 !important.py
+
+[aeiou]*.php
  
